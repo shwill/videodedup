@@ -10,7 +10,7 @@ from pathlib import Path
 
 import xxhash
 
-VIDEO_EXTENSIONS = {".mp4", ".mov", ".avi", ".mkv", ".m4v", ".3gp", ".wmv", ".flv", ".webm"}
+VIDEO_EXTENSIONS = {".mp4", ".mov", ".avi", ".mkv", ".m4v", ".3gp", ".wmv", ".flv", ".webm", ".mpeg", ".mpg", ".mpe"}
 QUICK_HASH_BYTES = 65536
 
 
